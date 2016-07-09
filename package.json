@@ -1,6 +1,6 @@
 {
   "name": "boxlog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Log messages inside shapes. Work is in progress.",
   "main": "boxlog.js",
   "scripts": {
@@ -20,7 +20,8 @@
     "url": "https://github.com/solotraze/boxlog/issues"
   },
   "homepage": "https://github.com/solotraze/boxlog#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
   }
